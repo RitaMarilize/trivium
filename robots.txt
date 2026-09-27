@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ritamarilize.github.io/trivium.github/sitemap.xml
+Sitemap: https://ritamarilize.github.io/trivium/sitemap.xml
